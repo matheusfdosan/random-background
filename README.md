@@ -31,6 +31,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
+Um projetinho top, desenvolvido por conta desse [vídeo](https://www.youtube.com/watch?v=xnUrOjV6t6g&list=PLNCevxogE3fgy0pAzVccadWKaQp9iHspz&index=2) do [Coding Artist](https://www.youtube.com/@CodingArtist)
+
 Dê uma olhada no projeto clicando nesse [link](https://matheusfdosan.github.io/random-background/).
 
 ## Contato
